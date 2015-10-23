@@ -10,7 +10,7 @@
 ```
 #Kodblock
 
-```
+```blocks
 när [w v] trycks ned
 peka i (0) riktning
 gå (5) steg
