@@ -14,7 +14,7 @@ när [w v] trycks ned
 peka i (0) riktning
 gå (5) steg
 ```
-
+ 
 
 * Skapa ett **eget konto** på Scratch: [http://scratch.mit.edu/](http://scratch.mit.edu/)
 
