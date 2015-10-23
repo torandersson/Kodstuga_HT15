@@ -25,14 +25,14 @@ answer {.answer}
 </table>
 
 <div class="solutiontoggle">
-			<button class="icon arrow expand sibling minus">
-				<span></span>
-				<strong>Visa lösning</strong>
-			</button>
-			<div style="height: 54px;">
-				<p>Testing 1 2 3</p>
-			</div>
-		</div>
+	<button class="icon arrow expand sibling minus">
+		<span></span>
+		<strong>Visa lösning</strong>
+	</button>
+	<div style="height: 54px;">
+		<p>Testing 1 2 3</p>
+	</div>
+</div>
 
 
 * Skapa ett **eget konto** på Scratch: [http://scratch.mit.edu/](http://scratch.mit.edu/)
