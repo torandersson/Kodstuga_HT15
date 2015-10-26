@@ -47,6 +47,41 @@ vänd ↺ (15) grader
 ```
 
 
+```blocks
+när ⚑ klickas på
+peka i (90 v) riktning
+gå till x:(-45) y:(115)
+för alltid
+	gå (3) steg
+
+```
+
+```blocks
+om <rör färgen [#4A7023]> då
+	säg [Game Over] i (2) sekunder
+```
+
+```blocks
+när ⚑ klickas på
+peka i (90 v) riktning
+gå till x:(-45) y:(115)
+för alltid
+	gå (3) steg
+	om <rör färgen [#4A7023]> då
+		säg [Game Over] i (2) sekunder
+	stoppa [detta skript v]
+```
+
+```blocks
+när [vänsterpil v] trycks ned
+vänd ↻ (5) grader
+```
+
+```blocks
+när [vänsterpil v] trycks ned
+vänd ↺ (5) grader
+```
+
 
 
 answer{.answer}
