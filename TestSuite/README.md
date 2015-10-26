@@ -1,4 +1,4 @@
-# h1
+﻿# h1
 
 ## h2
 
@@ -14,33 +14,38 @@ gå (5) steg
 ```
 
 ```blocks
-när @ klickas på
+när ⚑ klickas på
 ```
 
 ```blocks
-när @ klickas på
+när ⚑ klickas på
 gå (10) steg
 ```
 
 ```blocks
-när @ klickas på
+när ⚑ klickas på
 för alltid
 	gå (10) steg
 ```
 
 ```blocks
-när @ klickas på
+när ⚑ klickas på
 gå till x: (-45) y:(115)
 för alltid
 	gå (10) steg
-	vänd ↻ (15) grader
-slut
+	
 ```
 
 ```blocks
 när [vänsterpil v] trycks ned
-vänd 
+vänd ↻ (15) grader
 ```
+
+```blocks
+när [vänsterpil v] trycks ned
+vänd ↺ (15) grader
+```
+
 
 
 
