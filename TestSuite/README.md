@@ -69,7 +69,7 @@ för alltid
 	gå (3) steg
 	om <rör färgen [#4A7023]> då
 		säg [Game Over] i (2) sekunder
-	detener [detta skript v]
+	stoppa [detta skript v]
 ```
 
 ```blocks
