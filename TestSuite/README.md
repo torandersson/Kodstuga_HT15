@@ -4,7 +4,7 @@
 
 ### h3
 
-## h2 {.noline}
+## h2{.noline}
 
 ---
 ```blocks
@@ -13,7 +13,38 @@ peka i (0) riktning
 gå (5) steg
 ```
 
-answer {.answer}
+```blocks
+när @ klickas på
+```
+
+```blocks
+när @ klickas på
+gå (10) steg
+```
+
+```blocks
+när @ klickas på
+för alltid
+	gå (10) steg
+```
+
+```blocks
+när @ klickas på
+gå till x: (-45) y:(115)
+för alltid
+	gå (10) steg
+	vänd ↻ (15) grader
+slut
+```
+
+```blocks
+när [vänsterpil v] trycks ned
+vänd 
+```
+
+
+
+answer{.answer}
 
 <table class="noheader">
 <tbody>
